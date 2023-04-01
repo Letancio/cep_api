@@ -1,0 +1,18 @@
+{
+    "name": "letanciomarinho/cep_api",
+    "description": "API que utiliza o CEP para diversas integracoes",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Letanciomarinho\\CepApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Letancio Marinho"
+        }
+    ],
+    "require": {
+        "php": ">=7.3.0"
+    }
+}
